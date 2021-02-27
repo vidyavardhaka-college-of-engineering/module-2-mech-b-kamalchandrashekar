@@ -1,7 +1,8 @@
 //INPUT - 4 30 20 10 60
 //OUTPUT: The largest and smallest elements are 60 and 10
 
-//INSERT THE MISSING CODE 
+//INSERT THE MISSING E
+#include<math.h>
 #include <stdio.h>
 
 int main()
@@ -26,14 +27,14 @@ int main()
             small = arr[i];//missing code
         }
         
-        if (arr[i] >large  )//missing code
+        if (arr[i] >large )//missing code
         {
-            large= arr[];//missing code
+            large= arr[i];//missing code
         }
     }
 
     printf("The largest element of the array = %d", large);
-    printf("The smallest element of the array = %d",);
+    printf("The smallest element of the array = %d",small);
 
     return 0;
 }
