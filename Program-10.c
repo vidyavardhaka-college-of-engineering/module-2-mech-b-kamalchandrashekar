@@ -9,7 +9,6 @@ int main()
     int arr[100], n, i, small, large;
     printf("Enter how many values you want to read and values");
     scanf("%d", &n);
-    printf("enter the values of a[%d] : ",i);
     
     for (i = 0; i < n; i++)
     {
