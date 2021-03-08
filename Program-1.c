@@ -2,7 +2,7 @@
 //INPUT - 452
 //OUTPUT -3
 
-#include <stdio .h>
+#include <stdio.h>
 
 int main()
 {
