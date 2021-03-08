@@ -7,7 +7,7 @@
 int main()
 {
     int arr[100], n, i, small, large;
-    
+
     scanf("%d", &n);
     
     for (i = 0; i < n; i++)
@@ -26,7 +26,7 @@ int main()
             small = arr[i];//missing code
         }
         
-        if (arr[i] >large )//missing code
+        if (arr[i] >large  )//missing code
         {
             large= arr[i];//missing code
         }
